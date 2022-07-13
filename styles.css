@@ -1,0 +1,29 @@
+.counter-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: hwb(0 0% 100% / 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+    margin-left: 500px;
+    margin-right: 500px;
+    height: 250px;
+
+    
+}
+
+.fa_custom {
+    color: 
+    #0099CC
+    }
+
+
+
+#counter{
+    font-size: 3.5em;
+    padding: 30px;
+}
+
+.counter-text{
+    font-size: 1.5em;
+    color: darkcyan;
+}
+
